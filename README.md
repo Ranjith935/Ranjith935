@@ -5,10 +5,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: Backend systems using Node.js, RESTful APIs and MongoDB
-- 🧰 Tools I Use: Node.js, SQL Server, Postman, Docker, Supabase, CodeIgniter
-- 🛠️ Passionate About: API Design, Webhooks, Authentication, Backend Automation, Deployment
-- 🌱 Currently Learning: CI/CD, Docker best practices, scalable server architecture
+- 🔭 I’m currently working on: Backend systems using **Node.js**, **RESTful APIs**, and **MongoDB**
+- 🧰 Tools I use: **Node.js**, **SQL Server**, **Postman**, **Docker**, **Supabase**, **CodeIgniter**, **WordPress**
 - 📫 Reach me: **ranjithranji935@gmail.com**
 
 ---
