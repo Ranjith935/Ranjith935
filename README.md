@@ -20,7 +20,8 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![RESTful API](https://img.shields.io/badge/-RESTful%20API-000000?style=for-the-badge&logo=api&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-1D9BF0?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
@@ -32,20 +33,7 @@
 
 ---
 
-### 🚀 Goals for 2025
-
-- ✅ Deploy fullstack app with Docker
-- ✅ Integrate PDF + Supabase + CRM
-- 🔄 Improve API security and CI/CD
-- ❌ Learn Kubernetes basics (next!)
-
----
-
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-grey?style=flat-square&logo=gmail)](mailto:ranjith@example.com)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ranjith-g-c)
+[![Email](https://img.shields.io/badge/-Email-grey?style=flat-square&logo=gmail)](mailto:ranjithranji935@gmail.com)
