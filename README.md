@@ -26,14 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjith935&show_icons=true&theme=github_dark&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith935&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ranjith-g-c)
